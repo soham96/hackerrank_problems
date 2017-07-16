@@ -1,8 +1,13 @@
-In the town of line segments two line segments can only become friends if their slopes are equal. Line segments are not smart enough to calculate their own or some other line segment's slope so they use a machine called the slopeFinder to check their compatibility. Recently someone stole the slopeFinder and now the line segments are upset because they cannot make new friends. The Mayor of the town has hired you to write a code to fix the crisis that their town is facing.
+In the town of line segments two line segments can only become friends if their slopes are equal. 
+Line segments are not smart enough to calculate their own or some other line segment's slope so 
+they use a machine called the slopeFinder to check their compatibility. Recently someone stole 
+the slopeFinder and now the line segments are upset because they cannot make new friends. The 
+Mayor of the town has hired you to write a code to fix the crisis that their town is facing.
 
 Input Format
 
-Input Contains two line segments each on a line of its own. Each line segment is denoted by four integers Xa, Ya, Xb and Yb where (Xa,Ya) and (Xb, Yb) denote the two end points of the line segment.
+Input Contains two line segments each on a line of its own. Each line segment is denoted by four
+ integers Xa, Ya, Xb and Yb where (Xa,Ya) and (Xb, Yb) denote the two end points of the line segment.
 
 Constraints
 
